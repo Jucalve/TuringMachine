@@ -11,3 +11,6 @@ A Turing machine that simulates the rule 110 of cellular automata, the next tabl
 |r |(1,q,R) |(0,r,R)| X|
 |f |(0,f,L) |(1,B,L)| (0,q,R)|
 
+![anim1](anim1.PNG)
+![anim2](anim2.PNG)
+![text1](text1.PNG)
